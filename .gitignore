@@ -7,6 +7,7 @@ db.sqlite3
 
 # Ignore environment-specific settings
 .env
+.venv
 
 # Ignore IDE and editor files
 .vscode/
@@ -14,3 +15,6 @@ db.sqlite3
 
 # Ignore package dependencies
 /node_modules/
+
+# Ignore pycache from all subfolders dependencies
+**/__pycache__/
