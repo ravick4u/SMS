@@ -1,0 +1,16 @@
+# Ignore database files
+db.sqlite3
+
+# Ignore static files and media uploads
+/static/
+/media/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore package dependencies
+/node_modules/
