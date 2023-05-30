@@ -21,3 +21,6 @@ pip freeze > .\requirements.txt
 
 - Create a new project
 django-admin startproject myproject
+
+
+python manage.py runserver
